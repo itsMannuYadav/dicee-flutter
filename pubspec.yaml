@@ -1,7 +1,7 @@
-name: dicee
-description: A new Flutter application.
-
+# Added metadata for the project
+name: dicee_flutter
 version: 1.0.0+1
+description: A dice rolling app created as part of the Flutter course.
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
