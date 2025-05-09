@@ -9,7 +9,7 @@ The objective of this tutorial is to introduce you to the core programming conce
 
 ## Project Context
 
-This is the second project of the Flutter course. The first project was successfully completed and uploaded to GitHub. This project builds upon the foundational concepts learned earlier and introduces new features and techniques.
+This is the third project of the Flutter course. The first project was successfully completed and uploaded to GitHub. This project builds upon the foundational concepts learned earlier and introduces new features and techniques.
 
 ## What I created
 
